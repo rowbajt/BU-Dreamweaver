@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<site>
+<localinfo sitename="GIAP%20Old" ftporrdsserver="FALSE" localroot="F:%5CDatenRobert%5CWebsites%5CGIAP%20ALL%5CGIAPWEB%5C" assetfolder="F:%5CDatenRobert%5CWebsites%5CGIAP%20ALL%5CGIAPWEB%5CSpryAssets%5C" imagefolder="" spacerfilepath="" refreshlocal="TRUE" autouploadfiles="FALSE" maintainsyncinfo="TRUE" rewritedocrellinks="FALSE" cache="TRUE" httpaddress="http://www.69giap.com/" relativeTo="DOCUMENT" caseSensitiveLinks="FALSE" curserver="webserver"/>
+<remoteinfo accesstype="ftp" host="ftp.69giap.com" remoteroot="www/69giap.com/GIAPWEB/" user="giap@69giap.com" pw="72666667657C74" checkoutname="MYATA" emailaddress="robert@minzeband.com" enablecheckin="TRUE" checkoutwhenopen="TRUE" usefirewall="FALSE" usepasv="FALSE" useSFTP="FALSE" useIpv6="FALSE" useftpoptimization="TRUE" usealternaterename="FALSE" pathNameCharacterSet="Windows-1252"/>
+<designnotes usedesignnotes="TRUE" sharedesignnotes="FALSE"/>
+<sitemap homepage="" pagesperrow="200" columnwidth="125" showdependentfiles="FALSE" showpagetitles="FALSE" showhiddenfiles="FALSE"/>
+<fileviewcolumns sharecolumns="FALSE">
+    <column name="Local%20Files" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="132" remotewidth="180" />
+    <column name="Notes" align="center" show="FALSE" share="FALSE" builtin="TRUE" localwidth="36" remotewidth="36" />
+    <column name="Size" align="right" show="TRUE" share="FALSE" builtin="TRUE" localwidth="40" remotewidth="-2" />
+    <column name="Type" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="60" remotewidth="60" />
+    <column name="Modified" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="102" remotewidth="102" />
+    <column name="Checked%20Out%20By" align="left" show="TRUE" share="FALSE" builtin="TRUE" localwidth="-1" remotewidth="-1" />
+</fileviewcolumns>
+<appserverinfo servermodel="" urlprefix="http://localhost/" connectionsmigrated="FALSE" serverobjectsversion="1" defaultdoctype="HTML" accesstype="none" testsvrbinaccesstype="none"/>
+<cloaking enabled="TRUE" patterns="FALSE">
+    <cloakedpattern pattern=".fla"/>
+    <cloakedpattern pattern=".psd"/>
+</cloaking>
+<contributorintegration enabled="FALSE"/>
+</site>
